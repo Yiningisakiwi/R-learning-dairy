@@ -49,7 +49,7 @@ Okay, so for a list you need new paragraphs here, I guess?
 So next I will be trying to get how to add a picture of kiwi here.
 ![kiwis](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F571208e861c12bcb1592c34068ec224643b72c9061123-nknhId_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1633162916&t=86c28f816917b9ca2363a723d8484a32)  
 God, it’s **Huge**, I’ll try again.  
-<img src="kiwis.jfif" id="id" class="class" style="width:30.0%;height:30.0%" alt="kiwis" />  
+<img src="kiwis.jfif" id="id" class="class" width=30.0% height=30.0% alt="kiwis" />  
 now that’s much better!(remember not to give spaces between numbers and
 the “=” mark)
 
